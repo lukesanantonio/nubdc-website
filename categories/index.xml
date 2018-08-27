@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Northeastern University Ballroom Dancing Club</title>
-    <link>lukesanantonio.github.io/nubdc-website/categories/</link>
+    <link>https://lukesanantonio.github.io/nubdc-website/categories/</link>
     <description>Recent content in Categories on Northeastern University Ballroom Dancing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2012-{year} NU Ballroom Dance Club. Appa was not harmed in the making of this site.</copyright>
     
-	<atom:link href="lukesanantonio.github.io/nubdc-website/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lukesanantonio.github.io/nubdc-website/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
