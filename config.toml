@@ -1,0 +1,54 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Northeastern University Ballroom Dancing Club"
+copyright = "Copyright 2012-{year} NU Ballroom Dance Club. Appa was not harmed in the making of this site."
+theme = "nubdc"
+[menu]
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    title = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+      identifier = "about"
+      name = "About us"
+      title = "About Us"
+      url = "/about/"
+      weight = 2
+
+[[menu.main]]
+    identifier = "lessons"
+    name = "Lessons"
+    title = "Lessons"
+    url = "/lessons/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "competitions"
+    name = "Competitions"
+    title = "Competitions"
+    url = "/competitions/"
+    weight = 4
+
+[[menu.main]]
+    identifier = "events"
+    name = "Events"
+    title = "Events"
+    url = "/events/"
+    weight = 5
+
+[[menu.main]]
+    identifier = "e-board"
+    name = "E-Board"
+    title = "E-Board"
+    url = "/e-board/"
+    weight = 6
+
+[[menu.main]]
+    identifier = "coaching"
+    name = "Coaching"
+    title = "Coaching"
+    url = "/coaching/"
+    weight = 7

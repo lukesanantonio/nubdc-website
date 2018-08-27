@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+        <link rel="stylesheet" type="text/css" href="/css/main.css" />
+        <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/dancing" type="text/css"/>
+    </head>
+    <body>
+        <section id="header-container" class="content-row">
+            <img id="logo" src="/logo.png" class="header-content"/>
+            <h1 class="header-content">
+                {{.Site.Title}}
+            </h1>
+        </section>
+        <nav class="content-row">
+            <ul>
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main}}
+                    <li>
+                        <a href="{{ .URL }}">
+                            {{ .Pre }}
+                            <span>{{ .Name }}</span>
+                        </a>
+                    </li>
+                {{ end }}
+            </ul>
+        </nav>
+        <hr/>
+        <section id="main-content" class="content-row">
+            {{ block "header" . }}
+                <h1>{{.Title}}</h1>
+            {{ end }}
+            {{ block "main" . }}
+            {{ end }}
+        </section>
+        <footer class="content-row">
+            {{ block "footer" . }}
+                <p>{{replace .Site.Copyright "{year}" (now.Format "2006") }}</p>
+            {{ end }}
+        </footer>
+    </body>
+</html>
