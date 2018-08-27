@@ -3,12 +3,12 @@
     <head>
         <meta charset="utf-8">
         <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
-        <link rel="stylesheet" type="text/css" href="/css/main.css" />
+        <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/main.css" />
         <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/dancing" type="text/css"/>
     </head>
     <body>
         <section id="header-container" class="content-row">
-            <img id="logo" src="/logo.png" class="header-content"/>
+            <img id="logo" src="{{ .Site.BaseURL }}/logo.png" class="header-content"/>
             <h1 class="header-content">
                 {{.Site.Title}}
             </h1>
