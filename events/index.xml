@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Northeastern University Ballroom Dancing Club</title>
-    <link>http://example.org/events/</link>
+    <link>lukesanantonio.github.io/nubdc-website/events/</link>
     <description>Recent content in Events on Northeastern University Ballroom Dancing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2012-{year} NU Ballroom Dance Club. Appa was not harmed in the making of this site.</copyright>
     <lastBuildDate>Sun, 01 Apr 2018 12:03:01 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="lukesanantonio.github.io/nubdc-website/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Swing Night</title>
-      <link>http://example.org/events/swing-night/</link>
+      <link>lukesanantonio.github.io/nubdc-website/events/swing-night/</link>
       <pubDate>Sun, 01 Apr 2018 12:03:01 -0400</pubDate>
       
-      <guid>http://example.org/events/swing-night/</guid>
+      <guid>lukesanantonio.github.io/nubdc-website/events/swing-night/</guid>
       <description>Info about swing night</description>
     </item>
     
     <item>
       <title>Yule Ball</title>
-      <link>http://example.org/events/yule-ball/</link>
+      <link>lukesanantonio.github.io/nubdc-website/events/yule-ball/</link>
       <pubDate>Fri, 15 Dec 2017 12:03:01 -0400</pubDate>
       
-      <guid>http://example.org/events/yule-ball/</guid>
+      <guid>lukesanantonio.github.io/nubdc-website/events/yule-ball/</guid>
       <description>Info about Yule Ball</description>
     </item>
     

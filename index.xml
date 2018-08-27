@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Northeastern University Ballroom Dance Club on Northeastern University Ballroom Dancing Club</title>
-    <link>http://example.org/</link>
+    <link>lukesanantonio.github.io/nubdc-website/</link>
     <description>Recent content in Northeastern University Ballroom Dance Club on Northeastern University Ballroom Dancing Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2012-{year} NU Ballroom Dance Club. Appa was not harmed in the making of this site.</copyright>
     <lastBuildDate>Sun, 22 Apr 2018 12:03:01 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="lukesanantonio.github.io/nubdc-website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About us</title>
-      <link>http://example.org/about/</link>
+      <link>lukesanantonio.github.io/nubdc-website/about/</link>
       <pubDate>Sun, 22 Apr 2018 12:03:01 -0400</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>lukesanantonio.github.io/nubdc-website/about/</guid>
       <description>NU Ballroom Dance Club’s mission is to provide the entire Northeastern community with free ballroom dance lessons in a comfortable, social, environment and the opportunities to further their knowledge in all styles of ballroom dance!
 We offer:
  Beginner Lessons: These lessons are free, student run, and open to the entire NU community. No partner? No dance shoes? No problem! No prior dance experience is necessary!
@@ -26,39 +26,39 @@ We offer:
     
     <item>
       <title>Coaching</title>
-      <link>http://example.org/coaching/</link>
+      <link>lukesanantonio.github.io/nubdc-website/coaching/</link>
       <pubDate>Sun, 22 Apr 2018 12:03:01 -0400</pubDate>
       
-      <guid>http://example.org/coaching/</guid>
+      <guid>lukesanantonio.github.io/nubdc-website/coaching/</guid>
       <description>​The NU Ballroom Dance Club is coached by Brad Lowe of Firebeat Dancesport Studios and Anatoli Gorolevici of Eastern Ballroom Alliance.
 Brad Lowe has been studying and teaching ballroom dance for more than a decade. While teaching at Fred Astaire Dance Studios, Brad received accolades as a Regional Professional Smooth/Rhythm Finalist and a Regional Top 10 Teacher. His passion for Latin then led him to Firebeat Dancesport Studios, where he quickly achieved a new goal - Professional Latin Rising Star Finalist at Capital Dancesport with his partner, Ching Kao.</description>
     </item>
     
     <item>
       <title>Competitions</title>
-      <link>http://example.org/competitions/</link>
+      <link>lukesanantonio.github.io/nubdc-website/competitions/</link>
       <pubDate>Sun, 22 Apr 2018 12:03:01 -0400</pubDate>
       
-      <guid>http://example.org/competitions/</guid>
+      <guid>lukesanantonio.github.io/nubdc-website/competitions/</guid>
       <description>NUBDC prides itself in attending every ballroom competition it can in the Boston area. A huge movement in this style of dance has swept over the collegiate population and NUBDC is an up and coming contender, sending increasing numbers each semester to compete against some of the biggest names in collegiate ballroom.
 NU Ballroom offers any and all of its members the opportunity to participate in various competitions offered in both fall and spring semesters.</description>
     </item>
     
     <item>
       <title>Meet the 2017-2018 E-Board</title>
-      <link>http://example.org/e-board/</link>
+      <link>lukesanantonio.github.io/nubdc-website/e-board/</link>
       <pubDate>Sun, 22 Apr 2018 12:03:01 -0400</pubDate>
       
-      <guid>http://example.org/e-board/</guid>
+      <guid>lukesanantonio.github.io/nubdc-website/e-board/</guid>
       <description>President: Kathleen Newcomer, Year 5. A Computer Science/Biology student, Kathleen is originally from the midwest. She has been competing with ballroom since the start of her freshman year, and her favorite dances are all of them. When she’s not dancing she really enjoys baking, outdoor activities, and playing really nerdy games with her friends.  Vice President: Katie Krajovic, Year 4. A Computer Science/Biology student, Kathleen is originally from the midwest.</description>
     </item>
     
     <item>
       <title>Spring 2018 Schedule</title>
-      <link>http://example.org/lessons/</link>
+      <link>lukesanantonio.github.io/nubdc-website/lessons/</link>
       <pubDate>Sun, 22 Apr 2018 12:03:01 -0400</pubDate>
       
-      <guid>http://example.org/lessons/</guid>
+      <guid>lukesanantonio.github.io/nubdc-website/lessons/</guid>
       <description>Beginner Lessons: Thursdays, 8:00-9:00 PM, CSC Studio A  Open Floor Practice: Saturdays, 10 AM-1 PM, CSC Studios (both)  Intermediate Lessons: Tuesdays, 8:40-10 PM, CSC Studio B
 Competition Rounds: Sundays, 11 AM-1 PM CSC Studios (both)
 Some intermediate lessons begin at 8:40 and some at 9:10 - check the calendar, newsletter, and/or Facebook page for exact times each week!
@@ -67,19 +67,19 @@ Beginner lessons are open to everyone, regardless of dance experience. Intermedi
     
     <item>
       <title>Swing Night</title>
-      <link>http://example.org/events/swing-night/</link>
+      <link>lukesanantonio.github.io/nubdc-website/events/swing-night/</link>
       <pubDate>Sun, 01 Apr 2018 12:03:01 -0400</pubDate>
       
-      <guid>http://example.org/events/swing-night/</guid>
+      <guid>lukesanantonio.github.io/nubdc-website/events/swing-night/</guid>
       <description>Info about swing night</description>
     </item>
     
     <item>
       <title>Yule Ball</title>
-      <link>http://example.org/events/yule-ball/</link>
+      <link>lukesanantonio.github.io/nubdc-website/events/yule-ball/</link>
       <pubDate>Fri, 15 Dec 2017 12:03:01 -0400</pubDate>
       
-      <guid>http://example.org/events/yule-ball/</guid>
+      <guid>lukesanantonio.github.io/nubdc-website/events/yule-ball/</guid>
       <description>Info about Yule Ball</description>
     </item>
     
