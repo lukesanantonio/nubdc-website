@@ -17,4 +17,4 @@ Intermediate lessons are open to anyone who attended the beginner lesson in
 that dance, or has previous experience in it. Please contact us if you are
 unsure about your eligibility!
 
-<iframe id="lesson-calendar" src="https://calendar.google.com/calendar/embed?src=53l200vkhgd7dr2hecj9tcba64%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=53l200vkhgd7dr2hecj9tcba64%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
